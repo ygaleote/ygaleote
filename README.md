@@ -2,22 +2,25 @@
 
 ### Full Stack Developer · Arquitecto de Soluciones · Backend · Datos · Cloud · Seguridad
 
-Construyo soluciones full stack, sistemas backend, APIs, herramientas ETL, dashboards, automatizaciones y arquitecturas cloud seguras. Me gusta convertir procesos complejos en software útil, escalable y mantenible, conectando arquitectura, datos, frontend, backend, seguridad y automatización.
+Soy desarrollador **Full Stack** y **Arquitecto de Soluciones** con enfoque en el diseño de plataformas escalables, seguras y mantenibles. Trabajo conectando frontend, backend, datos, infraestructura cloud, automatización y seguridad para convertir procesos complejos en sistemas claros, operables y listos para evolucionar.
+
+Mi enfoque principal está en la **arquitectura de software**: diseño de APIs, separación de responsabilidades, integración entre servicios, modelado de datos, automatización de procesos, infraestructura como código, despliegues controlados y remediación de vulnerabilidades en entornos cloud. Me interesa construir soluciones que no solo funcionen, sino que sean observables, trazables, seguras y fáciles de mantener por equipos técnicos.
 
 ---
 
 ## 🚀 Perfil profesional
 
 ```txt
-Full Stack Developer | Backend & Solution Architect | Cloud Security | APIs | ETL | Data | Automation
+Full Stack Developer | Solution Architect | Backend Architecture | Cloud Security | APIs | ETL | Data | Automation
 ```
 
-- Desarrollo aplicaciones full stack con enfoque en arquitectura limpia.
-- Diseño APIs, servicios backend, integraciones y procesos de datos.
-- Construyo herramientas internas, dashboards y automatizaciones.
-- Trabajo con bases de datos, validación de información y migraciones.
-- Diseño soluciones cloud con foco en seguridad, trazabilidad y operación.
+- Diseño arquitecturas full stack con foco en escalabilidad, mantenibilidad y separación clara de capas.
+- Construyo APIs, servicios backend, integraciones y procesos de datos orientados a operación real.
+- Desarrollo herramientas internas, dashboards, automatizaciones y flujos técnicos para mejorar procesos.
+- Trabajo con bases de datos, modelado, validación, migraciones y pipelines ETL.
+- Diseño soluciones cloud con foco en seguridad, trazabilidad, operación y despliegue controlado.
 - Automatizo procesos de remediación de vulnerabilidades en ambientes serverless.
+- Aplico prácticas de arquitectura limpia, infraestructura como código, CI/CD y documentación técnica.
 - Me enfoco en soluciones prácticas, escalables, mantenibles y seguras.
 
 ---
